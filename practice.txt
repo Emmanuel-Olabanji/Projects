@@ -1,0 +1,859 @@
+Microsoft Windows [Version 10.0.18363.1256]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\emman>git --version
+git version 2.27.0.windows.1
+
+C:\Users\emman>git config --global user.name emmanuel
+
+C:\Users\emman>git congig --global user.email emmanuelolabanji@gmail.com
+git: 'congig' is not a git command. See 'git --help'.
+
+The most similar command is
+        config
+
+C:\Users\emman>git config --global user.email emmanuelolabanji@gmail.com
+
+C:\Users\emman>git config user.name
+emmanuel
+
+C:\Users\emman>cd ..
+
+C:\Users>cd emman
+
+C:\Users\emman>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\emman>cd Documents
+
+C:\Users\emman\Documents>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\emman\Documents>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman\Documents
+
+04/10/2020  12:31    <DIR>          .
+04/10/2020  12:31    <DIR>          ..
+04/10/2020  12:29               517 hello.class
+04/10/2020  12:23             1,081 test.java
+24/09/2020  16:10           404,477 TruthTableConstructor.jar
+               3 File(s)        406,075 bytes
+               2 Dir(s)  54,570,999,808 bytes free
+
+C:\Users\emman\Documents>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman\Documents
+
+04/10/2020  12:31    <DIR>          .
+04/10/2020  12:31    <DIR>          ..
+04/10/2020  12:29               517 hello.class
+04/10/2020  12:23             1,081 test.java
+24/09/2020  16:10           404,477 TruthTableConstructor.jar
+               3 File(s)        406,075 bytes
+               2 Dir(s)  54,570,086,400 bytes free
+
+C:\Users\emman\Documents>mkdir test
+
+C:\Users\emman\Documents>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman\Documents
+
+15/12/2020  17:48    <DIR>          .
+15/12/2020  17:48    <DIR>          ..
+04/10/2020  12:29               517 hello.class
+15/12/2020  17:48    <DIR>          test
+04/10/2020  12:23             1,081 test.java
+24/09/2020  16:10           404,477 TruthTableConstructor.jar
+               3 File(s)        406,075 bytes
+               3 Dir(s)  54,570,151,936 bytes free
+
+C:\Users\emman\Documents>cd test
+
+C:\Users\emman\Documents\test>echo.> test.txt
+
+C:\Users\emman\Documents\test>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman\Documents\test
+
+15/12/2020  17:52    <DIR>          .
+15/12/2020  17:52    <DIR>          ..
+15/12/2020  17:52                 2 test.txt
+               1 File(s)              2 bytes
+               2 Dir(s)  54,564,458,496 bytes free
+
+C:\Users\emman\Documents\test>echo.> index.html
+
+C:\Users\emman\Documents\test>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman\Documents\test
+
+15/12/2020  17:53    <DIR>          .
+15/12/2020  17:53    <DIR>          ..
+15/12/2020  17:53                 2 index.html
+15/12/2020  17:52                 2 test.txt
+               2 File(s)              4 bytes
+               2 Dir(s)  54,564,315,136 bytes free
+
+C:\Users\emman\Documents\test>Atom index.html
+
+C:\Users\emman\Documents\test>rm test.txt
+'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\emman\Documents\test>del test.txt
+
+C:\Users\emman\Documents\test>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman\Documents\test
+
+15/12/2020  17:55    <DIR>          .
+15/12/2020  17:55    <DIR>          ..
+15/12/2020  17:53                 2 index.html
+               1 File(s)              2 bytes
+               2 Dir(s)  54,563,123,200 bytes free
+
+C:\Users\emman\Documents\test>cd ..
+
+C:\Users\emman\Documents>del test
+C:\Users\emman\Documents\test\*, Are you sure (Y/N)? Y
+
+C:\Users\emman\Documents>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman\Documents
+
+15/12/2020  17:48    <DIR>          .
+15/12/2020  17:48    <DIR>          ..
+04/10/2020  12:29               517 hello.class
+15/12/2020  17:55    <DIR>          test
+04/10/2020  12:23             1,081 test.java
+24/09/2020  16:10           404,477 TruthTableConstructor.jar
+               3 File(s)        406,075 bytes
+               3 Dir(s)  54,563,131,392 bytes free
+
+C:\Users\emman\Documents>cd E:\Projects\git-one
+
+C:\Users\emman\Documents>cd ..
+
+C:\Users\emman>cd ..
+
+C:\Users>cd ..
+
+C:\>cd ..
+
+C:\>cd ..
+
+C:\>E:\Projects\git-one
+'E:\Projects\git-one' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>cd E:\Projects\git-one
+
+C:\>
+
+C:\>E:\Projects\git-one
+'E:\Projects\git-one' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\
+
+01/12/2020  21:29    <DIR>          AMD
+15/07/2020  21:53    <DIR>          MSI
+15/05/2020  02:29    <DIR>          PerfLogs
+06/10/2020  06:40    <DIR>          Program Files
+02/12/2020  15:41    <DIR>          Program Files (x86)
+31/08/2020  09:35    <DIR>          Users
+11/12/2020  01:30    <DIR>          Windows
+               0 File(s)              0 bytes
+               7 Dir(s)  54,631,170,048 bytes free
+
+C:\>cd Users
+
+C:\Users>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users
+
+31/08/2020  09:35    <DIR>          .
+31/08/2020  09:35    <DIR>          ..
+15/12/2020  17:45    <DIR>          emman
+14/03/2020  23:01    <DIR>          Public
+               0 File(s)              0 bytes
+               4 Dir(s)  54,631,170,048 bytes free
+
+C:\Users>cd emman
+
+C:\Users\emman>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman
+
+15/12/2020  17:45    <DIR>          .
+15/12/2020  17:45    <DIR>          ..
+22/09/2020  09:26    <DIR>          .android
+15/12/2020  17:53    <DIR>          .atom
+06/07/2020  18:35                 3 .bash_history
+11/06/2020  16:32    <DIR>          .config
+15/12/2020  17:45                60 .gitconfig
+29/11/2020  20:27    <DIR>          .idea
+08/03/2020  22:24    <DIR>          .idlerc
+11/06/2020  17:00                27 .node_repl_history
+02/04/2020  15:48    <DIR>          .pylint.d
+23/09/2020  08:41    <DIR>          .ssh
+07/03/2020  22:20    <DIR>          .vscode
+11/12/2020  10:52    <DIR>          3D Objects
+04/10/2020  00:38             9,479 AMDRM_Install.log
+06/03/2020  10:44         2,843,940 AMD_RyzenMaster.log
+05/08/2020  16:59    <DIR>          BrawlhallaReplays
+11/12/2020  10:52    <DIR>          Contacts
+15/12/2020  11:46    <DIR>          Creative Cloud Files
+15/12/2020  17:48    <DIR>          Documents
+15/12/2020  15:56    <DIR>          Downloads
+11/12/2020  10:52    <DIR>          Favorites
+23/10/2020  12:58    <DIR>          IdeaProjects
+11/12/2020  10:52    <DIR>          Links
+11/12/2020  10:52    <DIR>          Music
+15/12/2020  11:45    <DIR>          OneDrive
+11/12/2020  10:52    <DIR>          Saved Games
+11/12/2020  10:52    <DIR>          Searches
+08/08/2020  18:56                 0 Sti_Trace.log
+11/06/2020  17:05    <DIR>          sync_anime
+11/12/2020  10:52    <DIR>          Videos
+               6 File(s)      2,853,509 bytes
+              25 Dir(s)  54,631,235,584 bytes free
+
+C:\Users\emman>cd project
+
+C:\Users\emman\Project>cd E:\Projects\git-one
+
+C:\Users\emman\Project>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman\Project
+
+15/12/2020  20:21    <DIR>          .
+15/12/2020  20:21    <DIR>          ..
+15/12/2020  20:18    <DIR>          git-one
+15/12/2020  20:18    <DIR>          git-two
+               0 File(s)              0 bytes
+               4 Dir(s)  54,631,505,920 bytes free
+
+C:\Users\emman\Project>cd C:\Users\emman\Project\git-one
+
+C:\Users\emman\Project\git-one>git init
+Initialized empty Git repository in C:/Users/emman/Project/git-one/.git/
+
+C:\Users\emman\Project\git-one>gecho.> index.html
+'gecho.' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\emman\Project\git-one>echo.> index.html
+
+C:\Users\emman\Project\git-one>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 6AD3-C836
+
+ Directory of C:\Users\emman\Project\git-one
+
+15/12/2020  20:25    <DIR>          .
+15/12/2020  20:25    <DIR>          ..
+15/12/2020  20:25                 2 index.html
+               1 File(s)              2 bytes
+               2 Dir(s)  54,624,665,600 bytes free
+
+C:\Users\emman\Project\git-one>Atom index.thml
+
+C:\Users\emman\Project\git-one>Atom index.html
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\emman\Project\git-one>git add index.html
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+
+
+C:\Users\emman\Project\git-one>cd C:\Users\emman\Project\git-two
+
+C:\Users\emman\Project\git-two>git init
+Initialized empty Git repository in C:/Users/emman/Project/git-two/.git/
+
+C:\Users\emman\Project\git-two>cd ..
+
+C:\Users\emman\Project>cd git-one
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+
+
+C:\Users\emman\Project\git-one>git rm --cached index.html
+rm 'index.html'
+
+C:\Users\emman\Project\git-one>git add .
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        styles.css
+
+
+C:\Users\emman\Project\git-one>git rm --cached index.html
+rm 'index.html'
+
+C:\Users\emman\Project\git-one>git staus
+git: 'staus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        index.html
+        styles.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\emman\Project\git-one>git add .
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+        new file:   styles.css
+
+
+C:\Users\emman\Project\git-one>git commamd -m "first"
+git: 'commamd' is not a git command. See 'git --help'.
+
+C:\Users\emman\Project\git-one>git commit -m "first"
+[master (root-commit) aec1b1a] first
+ 2 files changed, 16 insertions(+)
+ create mode 100644 index.html
+ create mode 100644 styles.css
+
+C:\Users\emman\Project\git-one>git add .
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+
+C:\Users\emman\Project\git-one>git commit -m "changed paragraph"
+[master 897876c] changed paragraph
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\emman\Project\git-one>git log
+commit 897876ceb7ca3f4745cb8862bd014b380c8f9bae (HEAD -> master)
+Author: emmanuel <emmanuelolabanji@gmail.com>
+Date:   Wed Dec 16 21:47:09 2020 +0000
+
+    changed paragraph
+
+commit aec1b1a402e1bcf7542478efd4aa14aa35705cdf
+Author: emmanuel <emmanuelolabanji@gmail.com>
+Date:   Wed Dec 16 00:18:00 2020 +0000
+
+    first
+
+C:\Users\emman\Project\git-one>git config --global user.name Emmanuel Olabanji
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\emman\Project\git-one>git log
+commit 897876ceb7ca3f4745cb8862bd014b380c8f9bae (HEAD -> master)
+Author: emmanuel <emmanuelolabanji@gmail.com>
+Date:   Wed Dec 16 21:47:09 2020 +0000
+
+    changed paragraph
+
+commit aec1b1a402e1bcf7542478efd4aa14aa35705cdf
+Author: emmanuel <emmanuelolabanji@gmail.com>
+Date:   Wed Dec 16 00:18:00 2020 +0000
+
+    first
+
+C:\Users\emman\Project\git-one>git log
+commit 897876ceb7ca3f4745cb8862bd014b380c8f9bae (HEAD -> master)
+Author: emmanuel <emmanuelolabanji@gmail.com>
+Date:   Wed Dec 16 21:47:09 2020 +0000
+
+    changed paragraph
+
+commit aec1b1a402e1bcf7542478efd4aa14aa35705cdf
+Author: emmanuel <emmanuelolabanji@gmail.com>
+Date:   Wed Dec 16 00:18:00 2020 +0000
+
+    first
+
+C:\Users\emman\Project\git-one>git commit -m "changed paragraph again"
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\emman\Project\git-one>git commit -m "changed paragraph "
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\emman\Project\git-one>git add .
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+
+C:\Users\emman\Project\git-one>git commit -m "chnage paragraph again"
+[master 3e9405a] chnage paragraph again
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\emman\Project\git-one>git log
+commit 3e9405af8e46d558f08458cf264851ab17a1913c (HEAD -> master)
+Author: Emmanuel <emmanuelolabanji@gmail.com>
+Date:   Wed Dec 16 21:57:19 2020 +0000
+
+    chnage paragraph again
+
+commit 897876ceb7ca3f4745cb8862bd014b380c8f9bae
+Author: emmanuel <emmanuelolabanji@gmail.com>
+Date:   Wed Dec 16 21:47:09 2020 +0000
+
+    changed paragraph
+
+commit aec1b1a402e1bcf7542478efd4aa14aa35705cdf
+Author: emmanuel <emmanuelolabanji@gmail.com>
+Date:   Wed Dec 16 00:18:00 2020 +0000
+
+    first
+
+C:\Users\emman\Project\git-one>git config --global user.name Emmanuel-Olabanji
+warning: user.name has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change user.name.
+
+C:\Users\emman\Project\git-one>git config --global user.name EmmanuelOlabanji
+warning: user.name has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change user.name.
+
+C:\Users\emman\Project\git-one>git log --oneline
+Revert "chnage paragraph again"
+
+This reverts commit 3e9405af8e46d558f08458cf264851ab17a1913c.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#       modified:   index.html
+#
+~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       C:/Users/emman/Project/git-one/.git/COMMIT_EDITMSG [unix] (22:11 16/12/2020)                                     1,1 All"C:/Users/emman/Project/git-one/.git/COMMIT_EDITMSG" [converted][unix] 11L, 306C written
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[master 50f6fa0] Revert "chnage paragraph again"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\emman\Project\git-one>git log --oneline
+50f6fa0 (HEAD -> master) Revert "chnage paragraph again"
+3e9405a chnage paragraph again
+897876c changed paragraph
+aec1b1a first
+
+C:\Users\emman\Project\git-one>git reset 897876c
+
+C:\Users\emman\Project\git-one>git log --oneline
+897876c (HEAD -> master) changed paragraph
+aec1b1a first
+
+C:\Users\emman\Project\git-one>git reset 897876c --hard
+HEAD is now at 897876c changed paragraph
+
+C:\Users\emman\Project\git-one>git reset aec1b1a --hard
+HEAD is now at aec1b1a first
+
+C:\Users\emman\Project\git-one>git branch feature-1
+
+C:\Users\emman\Project\git-one>git branch-a
+git: 'branch-a' is not a git command. See 'git --help'.
+
+C:\Users\emman\Project\git-one>git branch -a
+  feature-1
+* master
+
+C:\Users\emman\Project\git-one>git log --onrlinr
+fatal: unrecognized argument: --onrlinr
+
+C:\Users\emman\Project\git-one>git checkout feature-1
+Switched to branch 'feature-1'
+
+C:\Users\emman\Project\git-one>git branch-a
+git: 'branch-a' is not a git command. See 'git --help'.
+
+C:\Users\emman\Project\git-one>git branch -a
+* feature-1
+  master
+
+C:\Users\emman\Project\git-one>git status
+On branch feature-1
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        feature1.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\emman\Project\git-one>git add .
+
+C:\Users\emman\Project\git-one>git status
+On branch feature-1
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   feature1.js
+
+
+C:\Users\emman\Project\git-one>git commit -m "added new feature file"
+[feature-1 029dd57] added new feature file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 feature1.js
+
+C:\Users\emman\Project\git-one>git checkout master
+Switched to branch 'master'
+
+C:\Users\emman\Project\git-one>git checkout feature-1
+Switched to branch 'feature-1'
+
+C:\Users\emman\Project\git-one>git checkout master
+Switched to branch 'master'
+
+C:\Users\emman\Project\git-one>git branch -D feature-1
+Deleted branch feature-1 (was 029dd57).
+
+C:\Users\emman\Project\git-one>git branch -a
+* master
+
+C:\Users\emman\Project\git-one>git checkout -b feature-a
+Switched to a new branch 'feature-a'
+
+C:\Users\emman\Project\git-one>git add .
+
+C:\Users\emman\Project\git-one>git commit -m "aded feature
+[feature-a 6c92ab1] aded feature
+ 1 file changed, 1 insertion(+)
+ create mode 100644 featurea.js
+
+C:\Users\emman\Project\git-one>git checkout -b feature-b
+Switched to a new branch 'feature-b'
+
+C:\Users\emman\Project\git-one>git status
+On branch feature-b
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        feature-b.js
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\emman\Project\git-one>git add .
+
+C:\Users\emman\Project\git-one>git status
+On branch feature-b
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   feature-b.js
+
+
+C:\Users\emman\Project\git-one>git commit -m "feature "
+[feature-b 3a2977e] feature
+ 1 file changed, 1 insertion(+)
+ create mode 100644 feature-b.js
+
+C:\Users\emman\Project\git-one>git checkout master
+Switched to branch 'master'
+
+C:\Users\emman\Project\git-one>git branch -a
+  feature-a
+  feature-b
+* master
+
+C:\Users\emman\Project\git-one>git merge feature-a
+Updating aec1b1a..6c92ab1
+Fast-forward
+ featurea.js | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 featurea.js
+
+C:\Users\emman\Project\git-one>git merge feature-a
+Already up to date.
+
+C:\Users\emman\Project\git-one>git merge feature-b
+Updating 6c92ab1..3a2977e
+Fast-forward
+ feature-b.js | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 feature-b.js
+
+C:\Users\emman\Project\git-one>git checkout master
+Already on 'master'
+
+C:\Users\emman\Project\git-one>git branch -a
+  feature-a
+  feature-b
+* master
+
+C:\Users\emman\Project\git-one>git checkout -b feature-c
+Switched to a new branch 'feature-c'
+
+C:\Users\emman\Project\git-one>git checkout master
+Switched to branch 'master'
+
+C:\Users\emman\Project\git-one>git add .
+
+C:\Users\emman\Project\git-one>git commit -m "added margin to body"
+[master b8c717a] added margin to body
+ 1 file changed, 1 insertion(+)
+
+Merge branch 'feature-c'
+
+# Conflicts:
+#       styles.css
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#       .git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#       modified:   styles.css
+#
+~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       ~                                                                                                                       C:/Users/emman/Project/git-one/.git/COMMIT_EDITMSG [unix] (22:58 16/12/2020)                                     1,1 All"C:/Users/emman/Project/git-one/.git/COMMIT_EDITMSG" [converted][unix] 20L, 448C written
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[master 377a6a2] Merge branch 'feature-c'
+
+C:\Users\emman\Project\git-one>git log --oneline
+377a6a2 (HEAD -> master) Merge branch 'feature-c'
+8c9fcd3 (feature-c) aded padding
+b8c717a added margin to body
+3a2977e (feature-b) feature
+6c92ab1 (feature-a) aded feature
+aec1b1a first
+
+C:\Users\emman\Project\git-one>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\emman\Project\git-one>git push https://github.com/Emmanuel-Olabanji/Projects.git master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com':
+C:\Users\emman\Project\git-one>
+C:\Users\emman\Project\git-one>
+C:\Users\emman\Project\git-one>git push https://github.com/Emmanuel-Olabanji/Projects.git master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com': Emmanuel-Olabanji
+Password for 'https://Emmanuel-Olabanji@github.com':
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/Emmanuel-Olabanji/Projects.git/'
+
+C:\Users\emman\Project\git-one>git push https://github.com/Emmanuel-Olabanji/Projects.git master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com':
+Password for 'https://github.com':
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/Emmanuel-Olabanji/Projects.git/'
+
+C:\Users\emman\Project\git-one>timtim2k10@gmail.com
+'timtim2k10@gmail.com' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\emman\Project\git-one>git push https://github.com/Emmanuel-Olabanji/Projects.git master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com': c
+C:\Users\emman\Project\git-one>
+
+C:\Users\emman\Project\git-one>
+
+C:\Users\emman\Project\git-one>Emmanuel-Olabanji
+'Emmanuel-Olabanji' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\emman\Project\git-one>git push https://github.com/Emmanuel-Olabanji/Projects.git master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com': Emmanuel-Olabanji
+Password for 'https://Emmanuel-Olabanji@github.com':
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (18/18), 1.59 KiB | 541.00 KiB/s, done.
+Total 18 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (5/5), done.
+To https://github.com/Emmanuel-Olabanji/Projects.git
+ * [new branch]      master -> master
+
+C:\Users\emman\Project\git-one>git add .
+
+C:\Users\emman\Project\git-one>git commit -m "changed head"
+[master 58a93d0] changed head
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\emman\Project\git-one>git remote add origin https://github.com/Emmanuel-Olabanji/Projects.git
+
+C:\Users\emman\Project\git-one>git push origin master
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com': Emmanuel-Olabanji
+Password for 'https://Emmanuel-Olabanji@github.com':
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 309 bytes | 309.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Emmanuel-Olabanji/Projects.git
+   377a6a2..58a93d0  master -> master
+
+C:\Users\emman\Project\git-one>
